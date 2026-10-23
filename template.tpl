@@ -15,6 +15,10 @@ ___INFO___
   "securityGroups": [],
   "displayName": "Open Tracked Cookie Keeper",
   "description": "Keeps a visitor's tracking cookies (Meta _fbp and _fbc, Google _ga and FPID, TikTok _ttp ...) alive in browsers that delete them early, such as Safari with ITP. It remembers them in your Open Tracked Data Store under a hash of an identifier you choose, and gives them back when the same visitor returns without them.",
+  "categories": [
+    "UTILITY",
+    "ADVERTISING"
+  ],
   "containerContexts": [
     "SERVER"
   ],
